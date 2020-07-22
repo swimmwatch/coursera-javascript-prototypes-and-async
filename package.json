@@ -1,0 +1,10 @@
+{
+  "name": "coursera-javascript-prototypes-and-async",
+  "version": "1.0.0",
+  "description": "This repository contains solved tasks from https://www.coursera.org/learn/javascript-prototipy",
+  "main": "index.js",
+  "repository": "https://github.com/swimmwatch/coursera-javascript-prototypes-and-async.git",
+  "author": "Dmitry Vasiliev <vasiliev.dim2014@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
